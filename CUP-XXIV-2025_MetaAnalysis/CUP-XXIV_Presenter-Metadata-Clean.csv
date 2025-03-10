@@ -1,0 +1,75 @@
+Presenter Type,Sector,Location,Career Stage,Person of Color,Female,Presentation Topic(s),Poster Title
+Poster Lead Author,OpenEye,Other State,Mid,,,AI; Orion ,Bringing AI protein folding to Orion and a case study on antibody antigen complexes
+Poster Lead Author,OpenEye,Other State,Early,,,Orion,The ties that bind us covalent docking in Orion
+Poster Lead Author,Academia,NY,Early,,,Experiment of Design; COVID,What is the minimum amount of experimental data needed to accurately triage molecules for the development of SARS-CoV-2 main protease inhibitor
+Poster Lead Author,Academia,Other State,Early,,,Ensemble,Rare event sampling using a reinforcement learning based weighted ensemble method
+Poster Lead Author,OpenEye,NM,Mid,Person of Color,,Search Engine,Brood for macrocycles
+Poster Lead Author,Biotech,CA,Mid,Person of Color,,Molecular Binding,Fragmentation analysis and visualization of key components of targeted protein degraders
+Poster Lead Author,OpenEye,NM,Mid,Person of Color,,Orion,Automating bespoke torsion parameterization on Orion
+Poster Lead Author,Academia,MA,Early,Person of Color,Female,Molecular Binding,Impact of protein conformation variation of structural druggability assessments
+Poster Lead Author,Academia,Other State,Early,,,Ensemble,Weighted ensemble annealing efficient conformation sampling of biomolecules
+Poster Lead Author,Biotech,CA,Early,Person of Color,Female,Modeling,QComp a QSAR based imputation framework for drug discovery
+Speaker,Academia,MA,Early,Person of Color,,Molecular Binding; Modeling,
+Speaker; Poster Lead Author,OpenEye,NM,Mid,,Female ,AI; Orion ,Services in Orion and running nvidia NIMs
+Speaker,OpenEye,NM,Senior,,,Orion,
+Poster Lead Author,OpenEye,NM,Senior,,,Molecular Binding,Rescuing good poses from virtual screening hit ID
+Speaker,Biotech,CA,Mid,,,CryoEM; Ensemble; COVID,
+Poster Lead Author,OpenEye,MA,Senior,,,DNA Encoded Libraries ,What the DEL
+Speaker,OpenEye,NM,Senior,,,Ensemble,
+Speaker,Biotech,CA,Senior,,,DNA Encoded Libraries ,
+Speaker,OpenEye,NM,Mid,,,Modeling; CryoEM,
+Poster Lead Author,Academia,Other State,Early,,,Molecular Binding,A goldilocks equilibrium of cyclosporine conformations as a determinant of permeability efficacy tradeofs on a physical chemistry basis
+Poster Lead Author,Academia,NY,Early,Person of Color,Female,COVID,Will paxlovid stay effective against SARS-CoV-2 mutants amidst the COVID-19 pandemic
+Poster Lead Author,Academia,Other State,Early,Person of Color,Female,Modeling,Induced fit pharmacophore based screning with flexible topology and EON
+Poster Lead Author,Biotech,MA,Mid,,,Ensemble,Enhancing water sampling in the NPT ensemble
+Poster Lead Author,OpenEye,NM,Senior,,,Molecular Binding,Coupling parameter choices in relative binding free energy calculations
+Poster Lead Author,Academia,NY,Early,Person of Color,,Molecular Binding,MCCE finding the right protonation microstates for my protein
+Speaker,OpenEye,NM,Executive,,,General,
+Speaker,OpenEye,Other State,Senior,,,AI; Experiment of Design,
+Poster Lead Author,Other Sector,Other State,Senior,,,Modeling; Cancer,Models for characterization diagnosis and treatment of human cacners using comparative canine human multiomics
+Poster Lead Author,OpenEye,NM,Senior,,,Modeling,Getting a grip on grids for FastROCS
+Poster Lead Author,Academia,NY,Early,,,Ensemble,Ensemble GIST extending grid inhomogenous solvation theory to flexible solutes
+Poster Lead Author,OpenEye,NM,Mid,Person of Color,,Modeling,pKa prediction Gaussian process regression for ionization state enumeration and exploration
+Speaker ,Biotech,Other State,Senior,Person of Color,,DNA Encoded Libraries ,
+Speaker ,Academia,NY,Senior,Person of Color,Female,Modeling; GPCRs,
+Speaker,Academia,Other State,Early,,,DNA Encoded Libraries; Big Data,
+Speaker,Biotech,CA,Senior,,,General,
+Speaker,Academia,MA,Early,,Female,"AI, Molecular Binding",
+Poster Lead Author,Academia,NM,Mid,Person of Color,,Molecular Binding,TICTAC target illumination clinical trial analystics with cheminformatics
+Speaker,OpenEye,NM,Senior,,,AI; Orion ,
+Speaker,OpenEye,NM,Executive,,,Orion,
+Speaker,OpenEye,NM,Mid,Person of Color,Female ,AI,
+Poster Lead Author,OpenEye,NM,Mid,,Female,Experiment of Design,New gold standard fro FF charge fitting
+Poster Lead Author,OpenEye,NM,Senior,Person of Color,,Ensemble; CryoEM,Refining protein structures and exploring conformational heterogeneity using weighted Ensemble Molecular Dynamics guidance by CryoEM maps
+Speaker,OpenEye,CA,Mid,,Female ,Search Engine; Orion ,
+Poster Lead Author,Biotech,NM,Mid,,Female,Experiment of Design; AI,Data collection strategies and AI ready discovery packages
+Speaker,Academia,NY,Senior,,,Modeling ,
+Speaker ,Academia,Other State,Senior,Person of Color,Female,Ensemble; NMR; HIV,
+Poster Lead Author,OpenEye,NM,Mid,Person of Color,,Orion,Customizing Orion
+Speaker,Academia,Other State,Mid,,,CryoEM,
+Poster Lead Author,Other Sector,CA,Mid,,Female,Experiment of Design; COVID,Assessing broad spectirum antiviral activity within the the coronavirus family using a structure based computational pipeline
+Speaker,OpenEye,NM,Mid,,,Extreme Scale; Orion,
+Poster Lead Author,Biotech,CA,Mid,,Female,AI,NeuralPlexer3 towards fully AI enabled structure based drug discovery
+Speaker,Biotech,CA,Senior,,,DNA Encoded Libraries ,
+Speaker,Biotech,NY,Senior,,,Molecular Binding,
+Speaker,Other Sector,NM,Senior,,,Crystallography,
+Speaker,OpenEye,NM,Mid,Person of Color,Female ,Modeling; Molecular Binding,
+Poster Lead Author,Academia,MA,Early,Person of Color,,Molecular Binding,Guiding fragment expansion with E-FTMap
+Speaker,Biotech,MA,Executive,,,AI,
+Poster Lead Author,OpenEye,NM,Mid,Person of Color,,Modeling,Machine learning for efficient crystal structure prediction
+Poster Lead Author,OpenEye,NM,Mid,Person of Color,,Modeling; Molecular Binding,Looking under the hood of the ligandabilty model
+Poster Lead Author,Other Sector,NM,Mid,,Female,Modeling; Molecular Binding,Quantum mechanical molecular dynamics simulations of chemical reactions to investigate enzyme mechanisms
+Speaker,OpenEye,Other State,Mid,Person of Color,,Extreme Scale,
+Speaker,Academia,Other State,Early,Person of Color,,CyroEM; Modeling,
+Poster Lead Author,Academia,Other State,Early,Person of Color,,Experiment of Design,RiteWeight enhancing the accuracy of all atom sampling data
+Poster Lead Author,OpenEye,NM,Mid,Person of Color,,AI,Ask Kepler answering questions about OpenEye products and documentation using RAG LLMs and Candence gAI
+Speaker,Biotech,NM,Senior,,,Modeling,
+Poster Lead Author,Biotech,Other State,Mid,Person of Color,,Modeling,Temporal validation of large scale multitask models for bioactivity and property prediction
+Poster Lead Author,Biotech,MA,Senior,,Female,AI,Rapid AI generation of optimized compound designs guided by user interaction
+Poster Lead Author,OpenEye,NM,Mid,Person of Color,Female,Modeling; CryoEM,An exploratory look at Bayesian model validation against CryoEM data
+Poster Lead Author,Academia,NY,Senior,,,Molecular Binding,Solvation thermodynamic costs of cognate binding site formation
+Poster Lead Author,OpenEye,NM,Mid,Person of Color,,Modeling,Benchmarking protein language models for antibody humanization; 3D structural modeling for antibody discovery
+Poster Lead Author,Academia,NY,Mid,Person of Color,,Molecular Binding,Exploring water based pharmacophores derivation via grid inhomogeneous solvation theory GIST
+Speaker,Academia,MA,Executive,,,DNA Encoded Libraries; Cancer,
+Poster Lead Author,OpenEye,CA,Mid,Person of Color,,Experiment of Design,A fast and efficient method for solving small molecular crystal structures using PXRD
+Speaker ,Biotech,MA,Mid,Person of Color,,Modeling ,
