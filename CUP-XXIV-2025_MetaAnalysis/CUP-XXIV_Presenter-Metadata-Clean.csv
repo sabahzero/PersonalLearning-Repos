@@ -10,7 +10,7 @@ Poster Lead Author,Academia,MA,Early,Person of Color,Female,Molecular Binding,Im
 Poster Lead Author,Academia,Other State,Early,,,Ensemble,Weighted ensemble annealing efficient conformation sampling of biomolecules
 Poster Lead Author,Biotech,CA,Early,Person of Color,Female,Modeling,QComp a QSAR based imputation framework for drug discovery
 Speaker,Academia,MA,Early,Person of Color,,Molecular Binding; Modeling,
-Speaker; Poster Lead Author,OpenEye,NM,Mid,,Female ,AI; Orion ,Services in Orion and running nvidia NIMs
+Speaker,OpenEye,NM,Mid,,Female ,AI; Orion ,
 Speaker,OpenEye,NM,Senior,,,Orion,
 Poster Lead Author,OpenEye,NM,Senior,,,Molecular Binding,Rescuing good poses from virtual screening hit ID
 Speaker,Biotech,CA,Mid,,,CryoEM; Ensemble; COVID,
@@ -39,6 +39,7 @@ Poster Lead Author,Academia,NM,Mid,Person of Color,,Molecular Binding,TICTAC tar
 Speaker,OpenEye,NM,Senior,,,AI; Orion ,
 Speaker,OpenEye,NM,Executive,,,Orion,
 Speaker,OpenEye,NM,Mid,Person of Color,Female ,AI,
+Poster Lead Author,OpenEye,NM,Mid,,,AI; Orion ,Services in Orion and running nvidia NIMs
 Poster Lead Author,OpenEye,NM,Mid,,Female,Experiment of Design,New gold standard fro FF charge fitting
 Poster Lead Author,OpenEye,NM,Senior,Person of Color,,Ensemble; CryoEM,Refining protein structures and exploring conformational heterogeneity using weighted Ensemble Molecular Dynamics guidance by CryoEM maps
 Speaker,OpenEye,CA,Mid,,Female ,Search Engine; Orion ,
