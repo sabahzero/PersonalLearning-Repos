@@ -2,12 +2,12 @@ Presenter Type,Sector,Location,Career Stage,Person of Color,Female,Presentation 
 Poster Lead Author,OpenEye,Other State,Mid,,,AI; Orion ,Bringing AI protein folding to Orion and a case study on antibody antigen complexes
 Poster Lead Author,OpenEye,Other State,Early,,,Orion,The ties that bind us covalent docking in Orion
 Poster Lead Author,Academia,NY,Early,,,Experiment of Design; COVID,What is the minimum amount of experimental data needed to accurately triage molecules for the development of SARS-CoV-2 main protease inhibitor
-Poster Lead Author,Academia,Other State,Early,,,Ensemble,Rare event sampling using a reinforcement learning based weighted ensemble method
+Poster Lead Author,Academia,PA,Early,,,Ensemble,Rare event sampling using a reinforcement learning based weighted ensemble method
 Poster Lead Author,OpenEye,NM,Mid,Person of Color,,Search Engine,Brood for macrocycles
 Poster Lead Author,Biotech,CA,Mid,Person of Color,,Molecular Binding,Fragmentation analysis and visualization of key components of targeted protein degraders
 Poster Lead Author,OpenEye,NM,Mid,Person of Color,,Orion,Automating bespoke torsion parameterization on Orion
 Poster Lead Author,Academia,MA,Early,Person of Color,Female,Molecular Binding,Impact of protein conformation variation of structural druggability assessments
-Poster Lead Author,Academia,Other State,Early,,,Ensemble,Weighted ensemble annealing efficient conformation sampling of biomolecules
+Poster Lead Author,Academia,PA,Early,,,Ensemble,Weighted ensemble annealing efficient conformation sampling of biomolecules
 Poster Lead Author,Biotech,CA,Early,Person of Color,Female,Modeling,QComp a QSAR based imputation framework for drug discovery
 Speaker,Academia,MA,Early,Person of Color,,Molecular Binding; Modeling,
 Speaker,OpenEye,NM,Mid,,Female ,AI; Orion ,
@@ -45,7 +45,7 @@ Poster Lead Author,OpenEye,NM,Senior,Person of Color,,Ensemble; CryoEM,Refining 
 Speaker,OpenEye,CA,Mid,,Female ,Search Engine; Orion ,
 Poster Lead Author,Biotech,NM,Mid,,Female,Experiment of Design; AI,Data collection strategies and AI ready discovery packages
 Speaker,Academia,NY,Senior,,,Modeling ,
-Speaker ,Academia,Other State,Senior,Person of Color,Female,Ensemble; NMR; HIV,
+Speaker ,Academia,PA,Senior,Person of Color,Female,Ensemble; NMR; HIV,
 Poster Lead Author,OpenEye,NM,Mid,Person of Color,,Orion,Customizing Orion
 Speaker,Academia,Other State,Mid,,,CryoEM,
 Poster Lead Author,Other Sector,CA,Mid,,Female,Experiment of Design; COVID,Assessing broad spectirum antiviral activity within the the coronavirus family using a structure based computational pipeline
